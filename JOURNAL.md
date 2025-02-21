@@ -6,3 +6,9 @@ Total hours so far: 0
 
 # Day 1 ( Feb 21 2025)
 I will try to start to work on my 3d printer today.
+
+
+
+# Ressources I found
+- https://www.instructables.com/How-to-Design-and-Build-a-3D-Printer/
+- https://kingroon.com/blogs/3d-print-101/cartesian-vs-corexy
