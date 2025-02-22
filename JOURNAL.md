@@ -1,6 +1,6 @@
 Made by: @Hash-AK
 Repository link: https://github.com/Hash-AK/AK-Printer/
-Total hours so far: 1:45 hour
+Total hours so far: 2 hour
 
 - [x] I have access to a makerspace 3d printer, can't make infinite print with it tho
 
@@ -29,10 +29,11 @@ After talking a bit with perpelxity.ai, I'm starting to have a better plan about
 @Anicetus on the slack proposed me these motors : https://www.aliexpress.us/item/2255801033887365.html
 
 
-Research : 1:30 hour
+Research : 1:45 hour
 
 # Ressources I found
 - https://www.instructables.com/How-to-Design-and-Build-a-3D-Printer/
 - https://kingroon.com/blogs/3d-print-101/cartesian-vs-corexy
 - https://reprap.org/wiki/Build_A_RepRap
 - https://www.instructables.com/Complete-newbie-step-by-step-3D-printer-with-all-p/
+- https://www.drdflo.com/pages/Guides/How-to-Build-a-3D-Printer/FFF.html
