@@ -26,9 +26,8 @@ I'm making a little plan for the printer, like constraint and things :
 
 After talking a bit with perpelxity.ai, I'm starting to have a better plan about this. 
 
-@Anicetus on the slack proposed me these motors : https://www.aliexpress.us/item/2255801033887365.html (seems to be the same as these : https://www.omc-stepperonline.com/3pcs-of-nema-17-bipolar-59ncm-84oz-in-2a-42x48mm-4-wires-w-1m-cable-connector-3-17hs19-2004s1)
-
-
+@Anicetus on the slack proposed me these motors : https://www.aliexpress.us/item/2255801033887365.html
+So I'm going to use this CAD model https://www.thingiverse.com/thing:2599693
 
 Research : 1 hour
 
