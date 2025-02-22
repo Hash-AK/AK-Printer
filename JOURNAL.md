@@ -1,6 +1,6 @@
 Made by: @Hash-AK
 Repository link: https://github.com/Hash-AK/AK-Printer/
-Total hours so far: 1:15 hour
+Total hours so far: 1:45 hour
 
 - [x] I have access to a makerspace 3d printer, can't make infinite print with it tho
 
@@ -27,9 +27,9 @@ I'm making a little plan for the printer, like constraint and things :
 After talking a bit with perpelxity.ai, I'm starting to have a better plan about this. 
 
 @Anicetus on the slack proposed me these motors : https://www.aliexpress.us/item/2255801033887365.html
-So I'm going to use this CAD model https://www.thingiverse.com/thing:2599693
 
-Research : 1 hour
+
+Research : 1:30 hour
 
 # Ressources I found
 - https://www.instructables.com/How-to-Design-and-Build-a-3D-Printer/
