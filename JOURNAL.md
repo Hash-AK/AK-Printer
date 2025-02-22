@@ -1,6 +1,6 @@
 Made by: @Hash-AK
 Repository link: https://github.com/Hash-AK/AK-Printer/
-Total hours so far: 15 minutes
+Total hours so far: 1 hour
 
 - [x] I have access to a makerspace 3d printer, can't make infinite print with it tho
 
@@ -21,7 +21,9 @@ I'm making a little plan for the printer, like constraint and things :
 - It will be CoreXY because it look cooler and the afor mentionned printers I have access to are CoreXY, meaning I can study it irl
 
 - I plan to make a custom PCB for a keybad at the front to manually control the extruder's movement and temperature (like the menu in the X-one 2 but physical)
- 
+After talking a bit with perpelxity.ai, I'm starting to have a better plan about this. The AI proposed me a 150x150x150 mm print surface (to be both small-form-factor and so I can print it with the printers I have access to)
+
+Research : 45 minutes
 
 # Ressources I found
 - https://www.instructables.com/How-to-Design-and-Build-a-3D-Printer/
