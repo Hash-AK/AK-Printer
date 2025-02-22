@@ -21,10 +21,15 @@ I'm making a little plan for the printer, like constraint and things :
 - It will be CoreXY because it look cooler and the afor mentionned printers I have access to are CoreXY, meaning I can study it irl
 
 - I plan to make a custom PCB for a keybad at the front to manually control the extruder's movement and temperature (like the menu in the X-one 2 but physical)
-After talking a bit with perpelxity.ai, I'm starting to have a better plan about this. The AI proposed me a 150x150x150 mm print surface (to be both small-form-factor and so I can print it with the printers I have access to)
+
+- Print volume will be 180^3mm
+
+After talking a bit with perpelxity.ai, I'm starting to have a better plan about this. 
 
 Research : 45 minutes
 
 # Ressources I found
 - https://www.instructables.com/How-to-Design-and-Build-a-3D-Printer/
 - https://kingroon.com/blogs/3d-print-101/cartesian-vs-corexy
+- https://reprap.org/wiki/Build_A_RepRap
+- https://www.instructables.com/Complete-newbie-step-by-step-3D-printer-with-all-p/
