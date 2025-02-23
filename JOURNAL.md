@@ -1,6 +1,6 @@
 Made by: @Hash-AK
 Repository link: https://github.com/Hash-AK/AK-Printer/
-Total hours so far: 2 hour
+Total hours so far: 2:20 hour
 
 - [x] I have access to a makerspace 3d printer, can't make infinite print with it tho
 
@@ -28,8 +28,15 @@ After talking a bit with perpelxity.ai, I'm starting to have a better plan about
 
 @Anicetus on the slack proposed me these motors : https://www.aliexpress.us/item/2255801033887365.html
 
-
 Research : 1:45 hour
+
+
+# Day 3 ( Feb 23 2025)
+
+I'm still searching for what aluminium extrusions I will use. After searching on the web and asking in the slack (only one reply 😭), I think I will go with 2020. Not sure yet what slot type (V or T) yet.
+So there's not much done yet but I'm sorta starting to see where I'm going. [this link](https://www.drdflo.com/pages/Guides/How-to-Build-a-3D-Printer/FFF.html) is realyl awesome tho, not supeer detailed but gives a really good overview.
+
+Research : 20 min
 
 # Ressources I found
 - https://www.instructables.com/How-to-Design-and-Build-a-3D-Printer/
