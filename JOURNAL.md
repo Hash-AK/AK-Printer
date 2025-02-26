@@ -1,6 +1,6 @@
 Made by: @Hash-AK
 Repository link: https://github.com/Hash-AK/AK-Printer/
-Total hours so far: 2:20 hour
+Total hours so far: 3:05 hour
 
 - [x] I have access to a makerspace 3d printer, can't make infinite print with it tho
 
@@ -38,6 +38,12 @@ So there's not much done yet but I'm sorta starting to see where I'm going. [thi
 
 Research : 20 min
 
+
+# Day 4 ( Feb 26 2025)
+
+Yesterday after asking in the slack and some reasearch I decided that I will use 2020 V-slot aluminium extrusions, 250 mm of lenght. After importing it and setting it all in FreeCAD (I lost so much time trying to resize them), I finnally have a _very rought_ idea of how to case is looking ![image of the aluminium extrusions in freecad](to be added)  
+
+CAD time : 45 minutes
 # Ressources I found
 - https://www.instructables.com/How-to-Design-and-Build-a-3D-Printer/
 - https://kingroon.com/blogs/3d-print-101/cartesian-vs-corexy
